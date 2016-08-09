@@ -1,0 +1,21 @@
+body {
+    background-color: deepskyblue;
+    color: white;
+}
+
+main {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.box {
+    padding-bottom: 100px;
+}
+
+button {
+    padding: 20px;
+}
+.trigger, .tweet {
+    font-size: 15px;
+}
+
